@@ -10,3 +10,5 @@ El **codi objecte** és el codi font traduït (pel compilador) a codi màquina, 
 El **codi executable** és la traducció completa a codi màquina, duta a terme per l’enllaçador (en anglès,linker). El codi executable és interpretat directament per l’ordinador.
 
 >                   codi font →(compilacio) →   codi objecte → (enllaçat) → Codi executable
+
+##Màquines virtuals
