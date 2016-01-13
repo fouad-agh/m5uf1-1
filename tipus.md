@@ -1,1 +1,1 @@
-#Tipus de llenguatges de programació)
+#Tipus de llenguatges de programació
