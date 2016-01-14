@@ -1,5 +1,5 @@
 #Característiques dels llenguatges més difosos.
-###Llenguatge estructurat
+###•Llenguatge estructurat
 ####Claredat 
 
 Hi haurà d’haver prou informació al codi per tal que el programa pugui ser entès i verificat: comentaris, noms de variables comprensibles i procediments entenedors... Tot programa estructurat pot ser llegit des del principi a la fi sense interrupcions en la seqüència normal de lectura. 
@@ -17,4 +17,4 @@ Demostra que tot programa es pot escriure utilitzant únicament les tres estruct
 
 El disseny descendent és una tècnica que es basa en el concepte de divideix i venceràs ("Divide and conquer") per tal de resoldre un problema en l’àmbit de la programació. Es tracta de la resolució del problema al llarg de diferents nivells d’abstracció partint d’un nivell més abstracte i finalitzant en un nivell de detall. 
 
-###Llenguatge orientat a objectes
+###•Llenguatge orientat a objectes
