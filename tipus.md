@@ -7,4 +7,5 @@ Es tracta del primer llenguatge de programació que utilitza codis mnemotècnics
 **• Llenguatges de tercera generació o llenguatges d’alt nivell.**<br>
 Aquests llenguatges, més evolucionats, utilitzen paraules i frases relativament fàcils d’entendre i proporcionen també facilitats per expressar alteracions del flux de control d’una forma bastant senzilla i intuïtiva.<br><br>
 **• Llenguatges de quarta generació o llenguatges de propòsit específic.**<br>
+Aporten un nivell molt alt d’abstracció en la programació, permetent desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior al necessari per als llenguatges de 3a generació.<br><br>
 **• Llenguatges de cinquena generació.<br>**
