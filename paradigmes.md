@@ -1,7 +1,4 @@
-
-####**1. Desenvolupament de programari (’software’)**
-
-#####**1.4 Paradigmes de programació.**
+#Paradigmes de programació
 
 És difícil establir una classificació general dels llenguatges de programació, ja que existeix un gran nombre de llenguatges i, de vegades, diferents versions d’un mateix llenguatge.  Una classificació molt estesa, atenent a la forma de treballar dels programes i a la filosofia amb què van ser concebuts, és la següent: 
 • Paradigma imperatiu/estructurat. 
