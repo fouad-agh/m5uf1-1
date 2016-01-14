@@ -2,6 +2,7 @@
 
 ##Els llenguatges de programació es poden classificar:<br>
 ###-Segons la seva semblança:<br>
+
                         **Baix nivell** → mes proper llenguatge maquina<br>
                         **Alt nivell** → mes proper llenguatge huma<br>
                         
