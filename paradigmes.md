@@ -29,13 +29,13 @@ Un objecte és una combinació de dades (anomenades atributs) i mètodes (funcio
 
 La programació orientada a objectes es basa en la integració de 5 conceptes: **abstracció, encapsulació, modularitat, jerarquia i polimorfisme**, que és necessari comprendre i seguir de manera absolutament rigorosa. No seguir-los sistemàticament, ometre’ls puntualment per pressa o altres raons fa perdre tot el valor i els beneficis que ens aporta l’orientació a objectes.
 
-##Paradigma funcional
+###Paradigma funcional
 Està basat en un model matemàtic. La idea és que el resultat d’un càlcul és l’entrada del següent, i així successivament fins que una composició produeixi el resultat desitjat. _
 
 Els creadors dels primers llenguatges funcionals pretenien convertir-los en llenguatges d’ús universal per al processament de dades en tot tipus d’aplicacions, però, amb el pas del temps, s’ha utilitzat principalment en àmbits d’investigació científica i aplicacions matemàtiques
 Un dels llenguatges més típics del paradigma funcional és el Lisp.
 
-##Paradigma lògic
+###Paradigma lògic
 Té com a característica principal l’aplicació de les regles de la lògica per inferir conclusions a partir de dades.
 
 Un programa lògic conté una base de coneixement sobre la que es duen a terme consultes. La base de coneixement està formada per fets, que representen la informació del sistema expressada com a relacions entre les dades i regles lògiques que permeten deduir conseqüències a partir de combinacions entre els fets i, en general, altres regles. 
