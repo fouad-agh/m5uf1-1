@@ -20,25 +20,14 @@ El disseny descendent és una tècnica que es basa en el concepte de divideix i 
 ##•Llenguatge orientat a objectes
 
 ####_Abstracció_
-És el procés en el qual se separen les propietats més importants d’un objecte
-de les que no ho són. És a dir, per mitjà de l’abstracció es de
-fi
-neixen les
-característiques essencials d’un objecte del món real, els atributs i comportaments
-que el de
-fi
-neixen com a tal, per després modelar-lo en un objecte de programari.
-En el procés d’abstracció no ha de ser preocupant la implementació de cada
-mètode o atribut, només cal de
-fi
-nir-los.
-En la tecnologia orientada a objectes l’eina principal per suportar l’abstracció és la
-classe
-. Es pot de
-fi
-nir una classe com una descripció genèrica d’un grup d’objectes
-que comparteixen característiques comunes, les quals són especi
-fi
-cades en els seus
-atributs i comportaments
 
+És el procés en el qual se separen les propietats més importants d’un objecte de les que no ho són. És a dir, per mitjà de l’abstracció es defineixen les característiques essencials d’un objecte del món real, els atributs i comportaments que el defineixen com a tal, per després modelar-lo en un objecte de programari. En el procés d’abstracció no ha de ser preocupant la implementació de cada mètode o atribut, només cal definir-los. En la tecnologia orientada a objectes l’eina principal per suportar l’abstracció és la classe. Es pot definir una classe com una descripció genèrica d’un grup d’objectes que comparteixen característiques comunes, les quals són especificades en els seus atributs i comportaments.
+
+####_Encapsulació_
+Permet als objectes triar quina informació és publicada i quina informació és amagada a la resta dels objectes. Per això els objectes solen presentar els seus mètodes com a interfícies públiques i els seus atributs com a dades privades o protegides, essent inaccessibles des d’altres objectes. Les característiques que es poden atorgar són:<br>
+
+**• Públic:** qualsevol classe pot accedir a qualsevol atribut o mètode declarat com a públic i utilitzar-lo.<br>
+**• Protegit:** qualsevol classe heretada pot accedir a qualsevol atribut o mètode declarat com a protegit a la classe mare i utilitzar-lo.<br>
+**• Privat:** cap classe no pot accedir a un atribut o mètode declarat com a privat i utilitzar-lo.
+
+####_Modularitat_
