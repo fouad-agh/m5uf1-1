@@ -15,7 +15,7 @@ Demostra que tot programa es pot escriure utilitzant únicament les tres estruct
 
 ####**Disseny descendent** 
 
-El disseny descendent és una tècnica que es basa en el concepte de “divideix i venceràs” per tal de resoldre un problema en l’àmbit de la programació. Es tracta de la resolució del problema al llarg de diferents nivells d’abstracció partint d’un nivell més abstracte i finalitzant en un nivell de detall. 
+El disseny descendent és una tècnica que es basa en el concepte de divideix i venceràs ("Divide and conquer") per tal de resoldre un problema en l’àmbit de la programació. Es tracta de la resolució del problema al llarg de diferents nivells d’abstracció partint d’un nivell més abstracte i finalitzant en un nivell de detall. 
 
 Exemple del disseny descendent: A partir del problema1 s’obtenen diversos subproblemes (subproblema 1.1, subproblema 1.2 i subproblema 1.3). La resolució d’aquests subproblemes serà molt més senzilla que la del problema original per tal com se n’ha reduït considerablement l’abast i la mida. De forma iterativa es pot observar com aquests subproblemes es tornen a dividir, a la vegada, en altres subproblemes.
 La visió moderna de la programació estructurada introdueix les característiques de programació modular i tipus abstractes de dades (TAD).
