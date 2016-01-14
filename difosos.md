@@ -31,3 +31,5 @@ Permet als objectes triar quina informació és publicada i quina informació é
 **• Privat:** cap classe no pot accedir a un atribut o mètode declarat com a privat i utilitzar-lo.
 
 ####_Modularitat_
+
+Permet poder modificar les característiques de cada una de les classes que defineixen un objecte, de forma independent de la resta de classes en l’aplicació. En altres paraules, si una aplicació es pot dividir en mòduls separats, normalment classes, i aquests mòduls es poden compilar i modificar sense afectar els altres, aleshores aquesta aplicació ha estat implementada en un llenguatge de programació quesuporta la modularitat.
