@@ -1,12 +1,6 @@
 #Paradigmes de programació
 
-És difícil establir una classificació general dels llenguatges de programació, ja que existeix un gran nombre de llenguatges i, de vegades, diferents versions d’un mateix llenguatge.  Una classificació molt estesa, atenent a la forma de treballar dels programes i a la filosofia amb què van ser concebuts, és la següent: 
-• Paradigma imperatiu/estructurat. 
-• Paradigma d’objectes. 
-• Paradigma funcional. 
-• Paradigma lògic. 
-
->_El **paradigma imperatiu/estructurat** deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria._
+**Paradigma imperatiu/estructurat**: Deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria._
 Alguns dels llenguatges imperatius són C, Basic, Pascal, Cobol... 
 
 La tècnica seguida en la programació imperativa és la **programació estructurada**. La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control: 
