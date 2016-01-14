@@ -1,12 +1,11 @@
 #Tipus de llenguatges de programació
 
-Els llenguatges de programació es poden classificar:
-
--Segons la seva semblança:
-                        Baix nivell → mes proper llenguatge maquina<br>
-                        Alt nivell → mes proper llenguatge huma<br>
+##Els llenguatges de programació es poden classificar:<br>
+###-Segons la seva semblança:<br>
+                        **Baix nivell** → mes proper llenguatge maquina<br>
+                        **Alt nivell** → mes proper llenguatge huma<br>
                         
--Segons la generació:
+###-Segons la generació:<br>
 **• Llenguatge de primera generació o llenguatge màquina.**<br>
 Es el primer tipus de llenguatge que es va desenvolupar. És l’únic llenguatge que entén l’ordinador directament.<br><br>
 **• Llenguatge de segona generació o llenguatge d’assemblador.**<br>
