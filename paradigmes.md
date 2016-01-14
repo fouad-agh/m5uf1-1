@@ -2,12 +2,14 @@
 
 **Paradigma imperatiu/estructurat**: Deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.
 Alguns dels llenguatges imperatius són:<br>
+
 • C<br>
 • Basic<br>
 • Pascal<br>
 • Cobol<br>
 
-La tècnica seguida en la programació imperativa és la **programació estructurada**. La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control:<br> 
+La tècnica seguida en la programació imperativa és la **programació estructurada**. La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control:<br>
+
 • Seqüència.<br>
 • Selecció.<br>
 • Iteració.<br>
