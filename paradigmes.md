@@ -1,6 +1,7 @@
 #Paradigmes de programació
 
-**Paradigma imperatiu/estructurat**: Deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.
+###Paradigma imperatiu/estructurat
+Deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.
 Alguns dels llenguatges imperatius són:<br>
 
 • C<br>
@@ -16,7 +17,8 @@ La tècnica seguida en la programació imperativa és la **programació estructu
 
 També es proposa desenvolupar el programa amb la tècnica de disseny descendent (top-down). És a dir, modular el programa creant porcions més petites de programes amb tasques específiques, que se subdivideixen en altres subprogrames, cada vegada més petits. La idea és que aquests subprogrames típicament anomenats funcions o procediments han de resoldre un únic objectiu o tasca.
 
-**Paradigma d’objectes**: Típicament conegut com a Programació Orientada a Objectes (POO, o OOP en anglès), és un paradigma de construcció de programes basat en una abstracció del món real. En un programa orientat a objectes, l’abstracció no són procediments ni funcions sinó els objectes. Aquests objectes són una representació directa d’alguna cosa del món real, com ara un llibre, una persona, una comanda, un empleat..._
+###Paradigma d’objectes
+Típicament conegut com a Programació Orientada a Objectes (POO, o OOP en anglès), és un paradigma de construcció de programes basat en una abstracció del món real. En un programa orientat a objectes, l’abstracció no són procediments ni funcions sinó els objectes. Aquests objectes són una representació directa d’alguna cosa del món real, com ara un llibre, una persona, una comanda, un empleat...
 Alguns dels llenguatges de programació orientada a objectes són:<br>
 • C++<br>
 • Java<br>
