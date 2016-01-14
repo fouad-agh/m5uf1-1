@@ -7,15 +7,18 @@ Alguns dels llenguatges imperatius són:<br>
 • Pascal<br>
 • Cobol<br>
 
-La tècnica seguida en la programació imperativa és la **programació estructurada**. La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control: 
-• Seqüència. 
-• Selecció. 
-• Iteració. 
+La tècnica seguida en la programació imperativa és la **programació estructurada**. La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control:<br> 
+• Seqüència.<br>
+• Selecció.<br>
+• Iteració.<br>
 
 També es proposa desenvolupar el programa amb la tècnica de disseny descendent (top-down). És a dir, modular el programa creant porcions més petites de programes amb tasques específiques, que se subdivideixen en altres subprogrames, cada vegada més petits. La idea és que aquests subprogrames típicament anomenats funcions o procediments han de resoldre un únic objectiu o tasca.
 
->_El **paradigma d’objectes**, típicament conegut com a Programació Orientada a Objectes (POO, o OOP en anglès), és un paradigma de construcció de programes basat en una abstracció del món real. En un programa orientat a objectes, l’abstracció no són procediments ni funcions sinó els objectes. Aquests objectes són una representació directa d’alguna cosa del món real, com ara un llibre, una persona, una comanda, un empleat..._
-Alguns dels llenguatges de programació orientada a objectes són C++, Java, C#... 
+**Paradigma d’objectes**: Típicament conegut com a Programació Orientada a Objectes (POO, o OOP en anglès), és un paradigma de construcció de programes basat en una abstracció del món real. En un programa orientat a objectes, l’abstracció no són procediments ni funcions sinó els objectes. Aquests objectes són una representació directa d’alguna cosa del món real, com ara un llibre, una persona, una comanda, un empleat..._
+Alguns dels llenguatges de programació orientada a objectes són:<br>
+• C++<br>
+• Java<br>
+• C#<br> 
 
 Un objecte és una combinació de dades (anomenades atributs) i mètodes (funcions i procediments) que ens permeten interactuar amb ell. En aquest tipus de programació, per tant, els programes són conjunts d’objectes que interactuen entre ells a través de missatges (crides a mètodes). 
 
