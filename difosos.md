@@ -33,3 +33,15 @@ Permet als objectes triar quina informació és publicada i quina informació é
 ####_Modularitat_
 
 Permet poder modificar les característiques de cada una de les classes que defineixen un objecte, de forma independent de la resta de classes en l’aplicació. En altres paraules, si una aplicació es pot dividir en mòduls separats, normalment classes, i aquests mòduls es poden compilar i modificar sense afectar els altres, aleshores aquesta aplicació ha estat implementada en un llenguatge de programació quesuporta la modularitat.
+
+####_Jerarquia_
+Permet l’ordenació de les abstraccions. Les dues jerarquies més importants d’un
+sistema complex són l’herència i l’agregació.
+L’herència també es pot veure com una forma de compartir codi, de manera que
+quan s’utilitza l’herència per de
+fi
+nir una nova classe només s’ha d’afegir allò
+que sigui diferent, és a dir, reapro
+fi
+ta els mètodes i variables, i especialitza el
+comportament.
